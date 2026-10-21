@@ -1,12 +1,12 @@
-# WooCommerce product designer plugins: a feature matrix
+# WooCommerce product designer plugins compared
 
-The product designers a WooCommerce shop can choose, side by side, one row per feature. Every cell cites the page it
-comes from (the keys in brackets, listed under Sources), and says "unknown" where no official page we read says.
-Ratings and install counts are WordPress.org's or the seller's own; nothing is scored here.
+Price, fees, hosting, design tools, print files and platforms of the product designer plugins a WooCommerce shop can
+use, one row per feature. The key in brackets after each cell is its source, listed at the bottom with the date it
+was read. "unknown" means none of those pages says. Ratings and install counts are WordPress.org's or the seller's.
 
-This matrix is made by the team behind PrintBlob, one of the plugins in it, so read it with that in mind. If a cell is
-wrong or out of date, open an issue or a pull request with the page that says so, and it will be corrected.
-The same facts, written up as comparisons: https://printblob.com/compare/
+Prices change. If a cell is out of date, open an issue or a pull request with the page that shows the new one.
+
+Side-by-side write-ups of the same facts: https://printblob.com/compare/
 
 ## Price, model and hosting
 
